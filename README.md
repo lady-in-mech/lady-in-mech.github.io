@@ -12,6 +12,7 @@ industry. Skilled in AutoCAD, SolidWorks, and Siemens NX.
 ## Experience
 
 ### Senior Design Engineer
+### Jupiter Wagons Ltd.
 
 ```
 May 2018 - Present (2 years 3 months +)
