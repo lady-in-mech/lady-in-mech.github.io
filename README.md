@@ -1,21 +1,28 @@
 # Stuti Sharma
 
-Kolkata, West Bengal, India
-[linkedin.com/in/stuti-sharma-](https://www.linkedin.com/in/stuti-sharma-767966122/)
-email: sharma.stuti.123@gmail.com
+|          |                                                                               |
+| -------- | ----------------------------------------------------------------------------- |
+| Loaction | Kolkata, West Bengal, India                                                   |
+| email    | sharma.stuti.123@gmail.com                                                    |
+| linkedin | [linkedin: stuti-sharma](https://www.linkedin.com/in/stuti-sharma-767966122/) |
 
 ## Summary
 
 Experienced Design and development Engineer with a demonstrated history of working in the Railroad manufacture
-industry. Skilled in AutoCAD, SolidWorks, and Siemens NX.
+industry.
+
+Skilled in AutoCAD, SolidWorks, and Siemens NX.
 
 ## Experience
 
 ### Senior Design Engineer
-### Jupiter Wagons Ltd.
 
-```
-May 2018 - Present (2 years 3 months +)
+#### Jupiter Wagons Ltd. Kolkata, India
+
+> May 2018 - Present (2 years 3 months +)
+
+```text
+
 1) Part Modeling and Assembly of Fabricated components, machining components and casting components.
 2) Geometric Dimensioning and Tolerance.
 3) Prepare bill of materials.
@@ -29,10 +36,11 @@ designs.
 
 ### Design Engineer
 
-### Kach Motors Pvt. Ltd.
+#### Kach Motors Pvt. Ltd. Indore, India
 
-```
-Apr 2013 - Mar 2018 (5 years)
+> Apr 2013 - Mar 2018 (5 years)
+
+```text
 # Design Process of NPD and regular parts.
 # Planning and preparation of feasibility report.
 # Fill RTS report and APQP Planning.
@@ -52,34 +60,25 @@ stock (FG + WIP) in quantity.
 
 ### Veer Bahadur Singh Purvanchal University, Jaunpur
 
-### Engineer's degree, Mechanical Engineering
-
-#### 2009 - 2013
+**Engineer's degree, Mechanical Engineering:** (2009 - 2013)
 
 ## Licenses & Certifications
 
-```
-Stuti Sharma - page 1
-```
-
-### Unigraphics NX 6.0 - CIPET Chennai
-
-#### 81548
-
-### Probing and scanning - PolyWorks India
+- **Unigraphics NX 6.0 [81548] - CIPET Chennai**
+- **Probing and scanning - PolyWorks India**
 
 ## Honors & Awards
 
-### LETTER OF APPRECIATION - Kach Motors Pvt. Ltd.
+**LETTER OF APPRECIATION - Kach Motors Pvt. Ltd.**
 
-```
+```text
 Jul 2017
 Received the appreciation letter and award from the management team for learning CNC machine operation.
 ```
 
-### LETTER OF APPRECIATION - Kach Motors Pvt. Ltd.
+**LETTER OF APPRECIATION - Kach Motors Pvt. Ltd.**
 
-```
+```text
 Aug 2016
 Received the appreciation letter and award for work done on shop floor for de-bottlenecking production
 operations, which helps to achieve the production target of the month.
@@ -87,12 +86,8 @@ operations, which helps to achieve the production target of the month.
 
 ## Skills
 
-```
+```text
 Siemens NX • AutoCAD • Communication • Engineering • Advanced Product Quality Planning (APQP) •
 Geometric Dimensioning & Tolerancing • Finite Element Analysis (FEA) • Design Engineering • Automotive •
 Mechanical Engineering
-```
-
-```
-Stuti Sharma - page 2
 ```
