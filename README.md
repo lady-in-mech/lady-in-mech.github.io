@@ -87,7 +87,7 @@ operations, which helps to achieve the production target of the month.
 ## Skills
 
 ```text
-Siemens NX • AutoCAD • Communication • Engineering • Advanced Product Quality Planning (APQP) •
+Siemens NX • AutoCAD • Solidworks • Communication • Engineering • Advanced Product Quality Planning (APQP) •
 Geometric Dimensioning & Tolerancing • Finite Element Analysis (FEA) • Design Engineering • Automotive •
 Mechanical Engineering
 ```
